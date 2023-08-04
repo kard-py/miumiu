@@ -1,11 +1,11 @@
 {
-  "name": "miumiu",
-  "short_name": "miumiu",
+  "name": "MiuMiu",
+  "short_name": "MiuMiu",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#FAFAFA",
   "theme_color": "#ebebeb",
-  "description": "A new Flutter project.",
+  "description": "Miau Miau.",
   "orientation": "portrait-primary",
   "prefer_related_applications": false,
   "icons": [
